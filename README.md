@@ -1,6 +1,6 @@
 # Schule
 
-Hier sind die Programme, die in der Schule erstellt wurden und ein Datenblatt den Calliope (was ich als Hilfe für das Programmieren benutze).
+Hier sind die Programme, die in der Schule erstellt wurden und ein Datenblatt den Calliope (was ich als Hilfe für das Programmieren benutze). Falls Dateinen fehlen, werden sie in geraumer Zeit hochgeladen.
 
 [1. Stunde 1](#1-stunde-1)
 * [1.1 Einstieg](#11-einstieg)
