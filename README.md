@@ -9,7 +9,7 @@ Hier sind die Programme, die in der Schule erstellt wurden und ein Datenblatt de
 2. Stunde war ich nicht da.
 
 [3. Stunde 3](#3-stunde-3)
-* [3.1 Elektronisches Türschild](#31-elektronisches-türschield)
+* [3.1 Elektronisches Türschild](#31-elektronisches-türschild)
 * [3.2 Heißer Draht](#32-heißer-draht)
 * [3.3 Quizbuzzer](#33-quizbuzzer)
 
