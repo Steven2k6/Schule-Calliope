@@ -35,4 +35,4 @@ Es soll ein Quiz mit buzzern werden, aber es ist leider noch nicht fertig. Code:
 
 # 4. Stunde 4
 ## 4.1 Timer
-Wir sollten eine Tiemr mit zwei Knöpfen Programmieren. Code: code/timer.hex
+Wir sollten eine Timer mit zwei Knöpfen Programmieren. Code: code/timer.hex
