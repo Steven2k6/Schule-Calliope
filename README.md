@@ -13,6 +13,9 @@ Hier sind die Programme, die in der Schule erstellt wurden und ein Datenblatt de
 * [3.2 Heißer Draht](#32-heißer-draht)
 * [3.3 Quizbuzzer](#33-quizbuzzer)
 
+[4. Stunde 4](#4-stunde-4)
+* [4.1 Timer](#41-timer)
+
 # 1. Stunde 1
 ## 1.1 Einstieg
 Der Calliope besitzt als Eingabe vier Pins, zwei Knöpfe, ein Mikrofon und ein Bewegungssensor. Als Ausgabe besitzt er zwei Stromanschlüsse, eine RGB-LED, ein Lautsprecher, eine 5x5 LED-Matrix, vier Pins und zwei 4-Pin steckplätze.
@@ -29,3 +32,7 @@ Der Code ist das Spiel Heißerdraht. Code: Code.heißer-draht.hex
 
 ## 3.3 Quizbuzzer
 Es soll ein Quiz mit buzzern werden, aber es ist leider noch nicht fertig. Code: Code/quiz-buzzer.hex
+
+# 4. Stunde 4
+## 4.1 Timer
+Wir sollten eine Tiemr mit zwei Knöpfen Programmieren. Code: code/timer.hex
