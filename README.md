@@ -43,5 +43,5 @@ Wir sollten eine Timer mit zwei Knöpfen Programmieren. Code: Code/timer.hex
 # 5. Stunde 5
 ## 5.1 Funk
 Wir haben einen funk-Test für Fragen erstellt.
-Code Calliope 1: Code/funk-c1.hex
-Code Calliope 2: Code/funk-c2.hex
+Code Calliope 1: Code/Funk-C1.hex
+Code Calliope 2: Code/Funk-C2.hex
