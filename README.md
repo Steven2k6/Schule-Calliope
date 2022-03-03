@@ -48,4 +48,4 @@ Code Calliope 1: Code/Funk-C1.hex;
 Code Calliope 2: Code/Funk-C2.hex
 
 ## 5.2 Entfernung
-Wir sollten die maximale Funk-Entfernung herausfinden (bei Sean und mir kamen 9 Meter heraus) Code: Code/Entfernung.hex
+Wir sollten die maximale Funk-Entfernung herausfinden (bei Sean und mir kamen ca.9 Meter heraus) Code: Code/Entfernung.hex
