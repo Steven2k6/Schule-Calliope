@@ -18,6 +18,7 @@ Hier sind die Programme, die in der Schule erstellt wurden und ein Datenblatt de
 
 [5. Stunde 5](#5-stunde-5)
 * [5.1 Funk](#51-funk)
+* [5.2 Entfernung](#52-entfernung)
 
 # 1. Stunde 1
 ## 1.1 Einstieg
@@ -45,3 +46,6 @@ Wir sollten eine Timer mit zwei Knöpfen Programmieren. Code: Code/timer.hex
 Wir haben einen funk-Test für Fragen erstellt.
 Code Calliope 1: Code/Funk-C1.hex; 
 Code Calliope 2: Code/Funk-C2.hex
+
+## 5.1 Entfernung
+Wir sollten die maximale Funk-Entfernung herausfinden (bei Sean und mir kamen 9 Meter heraus) Code: Code/Entfernung.hex
