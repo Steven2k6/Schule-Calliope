@@ -6,7 +6,9 @@ Hier sind die Programme, die in der Schule erstellt wurden und ein Datenblatt de
 * [1.1 Einstieg](#11-einstieg)
 * [1.2 Code](#12-code)
 
-2. Stunde war ich nicht da.
+[2. Stunde 2](#2-stunde2)
+* [2.1 Straßenlaterne](#21-straßenlaterne)
+* [2.2 Alarmanlage](#21-alarmanlage)
 
 [3. Stunde 3](#3-stunde-3)
 * [3.1 Elektronisches Türschild](#31-elektronisches-türschild)
@@ -27,9 +29,16 @@ Der Calliope besitzt als Eingabe vier Pins, zwei Knöpfe, ein Mikrofon und ein B
 ## 1.2 Code
 Ich habe ein Code zum steuern der RGB LED geschrieben. Code: Code/RGB.hex
 
+# 2. Stunde 2
+## 2.1 Straßenlaterne
+Es ist ein Licht, was auf die Helligkeit reagiert und das Licht dazu anpasst. Code: Code/Straßenlaterne.hex
+
+## 2.2 Alarmanlage
+Das ist eine Alarmanlage, die los geht, wenn es zu hell wird. Code: Code/Straßenlaterne.hex
+
 # 3. Stunde 3
 ## 3.1 Elektronisches Türschild
-Ich habe dieses Programm leider nicht gespeicher, ich schreibe Privat eins.
+Ich habe dieses Programm leider nicht gespeicher.
 
 ## 3.2 Heißer Draht
 Der Code ist das Spiel Heißerdraht. Code: Code.heißer-draht.hex
