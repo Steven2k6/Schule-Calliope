@@ -8,7 +8,7 @@ Hier sind die Programme, die in der Schule erstellt wurden und ein Datenblatt de
 
 [2. Stunde 2](#2-stunde2)
 * [2.1 Straßenlaterne](#21-straßenlaterne)
-* [2.2 Alarmanlage](#21-alarmanlage)
+* [2.2 Alarmanlage](#22-alarmanlage)
 
 [3. Stunde 3](#3-stunde-3)
 * [3.1 Elektronisches Türschild](#31-elektronisches-türschild)
