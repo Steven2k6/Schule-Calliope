@@ -34,7 +34,7 @@ Ich habe ein Code zum steuern der RGB LED geschrieben. Code: Code/RGB.hex
 Es ist ein Licht, was auf die Helligkeit reagiert und das Licht dazu anpasst. Code: Code/Straßenlaterne.hex
 
 ## 2.2 Alarmanlage
-Das ist eine Alarmanlage, die los geht, wenn es zu hell wird. Code: Code/Straßenlaterne.hex
+Das ist eine Alarmanlage, die los geht, wenn es zu hell wird. Code: Code/Alarmanlage.hex
 
 # 3. Stunde 3
 ## 3.1 Elektronisches Türschild
